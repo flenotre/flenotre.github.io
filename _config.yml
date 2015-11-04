@@ -15,7 +15,7 @@ viadeo_text: Viadeo
 markdown: kramdown
 
 #Syntax highlighter
-highlighter: rouge
+highlighter: pygments
 
 # Setting the encoding to UTF-8 to make sure it will run smoothly under Windows
 encoding: utf-8
