@@ -62,7 +62,7 @@ I asked a couple of students their definition of software testing; most of them 
 The first class was important as it got students attention, which was confirmed to me by the Khmer teacher later on and also the positive feedback coming from a poll that was made after the software testing class. The fact of wrapping it with context and using real-life examples and interaction meant that software testing was not just theory, it also had concrete and important applications in their daily life and made them feel involved.  
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Teaching-Testing\Presenting-Test-Plan.jpg" alt="Presenting the concept of test plan" style="width:420px;height:315px;">
+  <img src="\assets\Post-Teaching-Testing\Presenting-Test-Plan.JPG" alt="Presenting the concept of test plan" style="width:420px;height:315px;">
   <p>Presenting the concept of test plan</p>
 </div>
 
