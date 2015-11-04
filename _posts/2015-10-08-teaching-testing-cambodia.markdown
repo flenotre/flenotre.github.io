@@ -78,7 +78,7 @@ First case is while we were explaining the concepts of customer needs and requir
 We did not only write on a whiteboard, we also used real objects as concrete examples. In the first lesson, to introduce the students with the concept of risk that testers should be able to identify, we took the whole class down to the car park – which is more a motor park – to look at a motorbike. They split into teams of four and five and were allowed to touch and use it, in order to draw a list of risks that they would identify if they were testing it. We – my Khmer colleague and I – realised that they engaged straight away: they turned the engine and the lights on, used the brakes, used the accelerator to let the wheel spinning in the air – the motorbike was standing on a clutch for that to happen -, looked at every inch of it and drew a long list of potential risks. When we reviewed the list of items they wrote in the following class, they immediately connected and recognised their findings: we used their active state of mind to present them with the conclusions of the practice to get the message across more effectively.
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Teaching-Testing\Risks-Motorcycle.jpg" alt="Looking for risks in a motorcycle" style="width:420px;height:236px;">
+  <img src="\assets\Post-Teaching-Testing\Risks-Motorcycle.JPG" alt="Looking for risks in a motorcycle" style="width:420px;height:236px;">
   <p>Looking for risks in a motorcycle</p>
 </div>
 
@@ -97,8 +97,8 @@ After collecting their answers and analysing the results, we presented the latte
 While I was presenting the results on the slides, I could see many students shaking their head and nodding. We asked a couple of them afterwards to re-explain us what they learnt from the workshop: their feedback was positive and we were pleased with it. Since they had done the practice first, faced the problem and had to react to it to find a solution, they understood the conclusions faster.
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Teaching-Testing\Req-unclear.jpg" alt="Group instructions with unclear requirements" style="width:237px;height:420px;">
-  <img src="\assets\Post-Teaching-Testing\Req-clear.jpg" alt="Group instructions with clear requirements" style="width:237px;height:420px;">
+  <img src="\assets\Post-Teaching-Testing\Req-unclear.JPG" alt="Group instructions with unclear requirements" style="width:237px;height:420px;">
+  <img src="\assets\Post-Teaching-Testing\Req-clear.JPG" alt="Group instructions with clear requirements" style="width:237px;height:420px;">
   <p>Group instructions with unclear - to the left - and precise - to the right - requirements</p>
 </div>
 
@@ -110,8 +110,8 @@ Each experience always comes with a bunch of positive and negative aspect, very 
 Using concrete examples linked to students' daily life was a powerful way of getting the message across; even when we tested websites that they thought they knew very well because they were using it a lot – such as Gmail –, they still discovered new features and we did not lose their attention. Selecting the wrong examples may end up with losing the students attention.
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Teaching-Testing\Presenting-environment-1.jpg" alt="Teacher presenting the concept of environment in class" style="width:300px;height:225px;">
-  <img src="\assets\Post-Teaching-Testing\Presenting-environment-2.jpg" alt="Teacher writing on whiteboard" style="width:300px;height:225px;">
+  <img src="\assets\Post-Teaching-Testing\Presenting-environment-1.JPG" alt="Teacher presenting the concept of environment in class" style="width:300px;height:225px;">
+  <img src="\assets\Post-Teaching-Testing\Presenting-environment-2.JPG" alt="Teacher writing on whiteboard" style="width:300px;height:225px;">
   <p>Defining the concept of environment and parameters using motorbike example</p>
 </div>
 
@@ -135,7 +135,7 @@ The most efficient way to create a presentation or a workshop that I have found 
 During the workshop practice, I was very keen to see if I managed to stir up their curiosity with testing afterwards, and in fact after one workshop we had to stop them from testing some software as they had not heard the bell ringing !
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Teaching-Testing\Interrogating.jpg" alt="A student being questioned" style="width:420px;height:315px;">
+  <img src="\assets\Post-Teaching-Testing\Interrogating.JPG" alt="A student being questioned" style="width:420px;height:315px;">
   <p>Active participation gave the students a strong incentive</p>
 </div>
 
@@ -178,6 +178,6 @@ The inductive approach that I described earlier in this article proved to be ver
 Unfortunately due to the time constraints, we were limited with creating more workshops and homework, but if I was allowed more time, I would definitely start hooking the testing class into their other development topics: what is better than having a real application to test, and furthermore an application that they coded themselves ? It would really develop their sense of responsibility and ownership towards their code and increase its quality. They would become more analytical and critical regarding requirements and specifications that can be given. It would reinforce their collaboration with testers and stakeholders when starting to work for companies, and we know how much it is valuable to software quality.
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Teaching-Testing\AllClass.jpg" alt="The two classes reunited" style="width:420px;height:315px;">
+  <img src="\assets\Post-Teaching-Testing\AllClass.JPG" alt="The two classes reunited" style="width:420px;height:315px;">
   <p>Thank you for your attention!</p>
 </div>
