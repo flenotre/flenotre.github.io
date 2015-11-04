@@ -178,6 +178,6 @@ The inductive approach that I described earlier in this article proved to be ver
 Unfortunately due to the time constraints, we were limited with creating more workshops and homework, but if I was allowed more time, I would definitely start hooking the testing class into their other development topics: what is better than having a real application to test, and furthermore an application that they coded themselves ? It would really develop their sense of responsibility and ownership towards their code and increase its quality. They would become more analytical and critical regarding requirements and specifications that can be given. It would reinforce their collaboration with testers and stakeholders when starting to work for companies, and we know how much it is valuable to software quality.
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Teaching-Testing\AllClass.JPG" alt="The two classes reunited" style="width:420px;height:315px;">
+  <img src="\assets\Post-Teaching-Testing\allclass.JPG" alt="The two classes reunited" style="width:420px;height:315px;">
   <p>Thank you for your attention!</p>
 </div>
