@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teaching software testing in Cambodia"
-date:   2015-10-14
+date:   2015-11-04
 categories: jekyll update
 ---
 <div class="post-intro-text">
