@@ -2,7 +2,7 @@
 layout: post
 title: "Teaching software testing in Cambodia"
 date:   2015-11-04
-categories: jekyll update
+permalink: /article/teaching-software-testing
 ---
 <div class="post-intro-text">
   <p>Could you teach software testing? </p> 
