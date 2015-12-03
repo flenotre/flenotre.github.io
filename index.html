@@ -18,33 +18,30 @@ layout: default
   constantly seeking for learning and inspiration. </br></br>
   Starting to write articles about my own experience is just another way of sharing my own knowledge; I would love 
   to hear any feedback you have or to exchange with you on any topic or questions you have. Feel free to contact me 
-  via the links in the footer: Twitter, email, Viadeo and LinkedIn, where you can also view my achievements.
+  via the links in the footer: Twitter, email, Viadeo and LinkedIn, where you can also view my achievements.</p>
   
 </div>
-<div class="article-list">
-  <h1 class="page-heading">Articles</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <a class="image-link" href="{{ post.url | prepend: site.baseurl }}">
-          <img class="homepage-article-image" src="/assets/homepage-teaching.JPG" alt="Teaching article - picture" style="width:210px;height:150px;">
-        </a>
-        
+<h1 class="page-heading">Articles</h1>
+
+<table>
+  {% for post in site.posts %}
+    <tr>
+      <td>
+        <div class = "hp.image-cell">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <img class="hp.image" src="{{ post.hp-image-path }}" alt="Article picture" style="width:210px;height:150px;">
+          </a>
+        </div>
+      </td>
+      
+      <td>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        
-        
-        
-      </li>
-    {% endfor %}
-  </ul>
+      </td>    
+    </tr>
+  {% endfor %}
+</table>
 
-  <!--If you want to include RSS feed subscription, remove these commenting tags
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-  -->
-
-</div>

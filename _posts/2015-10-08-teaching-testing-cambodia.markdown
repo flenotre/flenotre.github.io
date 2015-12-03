@@ -3,6 +3,7 @@ layout: post
 title: "Teaching software testing in Cambodia"
 date:   2015-11-04
 permalink: /article/teaching-software-testing
+hp-image-path: /assets/hp/homepage-teaching.JPG
 ---
 <div class="post-intro-text">
   <p>Could you teach software testing? </p> 
