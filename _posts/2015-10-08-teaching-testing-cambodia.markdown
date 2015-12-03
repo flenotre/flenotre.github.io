@@ -10,7 +10,7 @@ hp-image-path: /assets/hp/homepage-teaching.JPG
   <p>This the question I asked myself. After three years spent in such a great company as The Net-A-Porter Group 
 collaborating, sharing knowledge, practising on workshops with all the other testers, I decided to try a different approach to
 my job: what if I was now sharing but with people who did not know software testing at all? This is my teaching experience described: this article is a bit long - I added relevant and nice pictures for your 
-reading journey -, so please grab a cup of coffee, have a seat and join me in my story, which I hope will be inspiring.
+reading journey -, so please grab a cup of coffee, have a seat and join me in my story, which I hope will be inspiring.<br><br><br>
 </p>
 </div>
   

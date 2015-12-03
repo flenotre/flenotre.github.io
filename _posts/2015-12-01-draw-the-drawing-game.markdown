@@ -9,7 +9,7 @@ hp-image-path: /assets/hp/homepage_drawing-game.jpg
   <p> Shortly after I arrived in the town of Lyon, France, I found out through the Meetup.com website about 
   the CARA association   which promotes the Agile methodology in the IT sector in the region of Rhône-Alpes 
   and gathers nearly 450 members on the Linkedin network. They were sponsoring the Agile workshop that 
-  I took part in and which is described in this article.</p>
+  I took part in and which is described in this article.<br><br><br></p>
 </div>
 
 Searching for new professional events to attend, I found a new workshop session on the PODOJO group on Meetup.com website: the description mentioned a game called “Draw the drawing game”, apparently related to functional specifications, and inspired from Alistair Cockburn, co-signatory of the Agile Manifesto. I had never heard of this game before, so it was the perfect time to try it out. 

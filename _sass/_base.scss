@@ -92,10 +92,10 @@ a {
     color: $brand-color($brand-color, 15%);
     text-decoration: none;
 
-    &:visited {
-      color: darken($brand-color, 15%);
-    }
-
+    /**&:visited {
+      *color: darken($brand-color, 15%);
+    *}
+*/
     &:hover {
         color: rgb(120,120,120);
         text-decoration: none;
