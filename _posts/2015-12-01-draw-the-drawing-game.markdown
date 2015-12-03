@@ -3,7 +3,7 @@ layout: post
 title: "Draw the drawing game"
 date:   2015-12-01
 permalink: /article/draw-the-drawing-game
-hp-image-path: /assets/hp/homepage_drawing-game.JPG
+hp-image-path: /assets/hp/homepage_drawing-game.jpg
 ---
 <div class="post-intro-text">
   <p> Shortly after I arrived in the town of Lyon, France, I found out through the Meetup.com website about 
@@ -87,7 +87,7 @@ The last point is that, the more verbal and close the communication becomes, the
 Indeed, the game conditions are ideal: despite of the distance separating the two rooms and the restrictions with speaking to Artists, everyone is available and focused on the same project at the same time. In my own experience, which is probably also the case for most testers as well, it is sometimes hard to schedule a verbal meeting, whether it is face-to-face or over the phone. Each of the team member can be involved with various meetings, pressured with other deadlines or live issues to fix, and finding the time to discuss a simple matter can be tricky. We never realise the amount of time spent in trying to establish this communication, and “Draw the drawing game” reminds us the reality of it.
 
 <div class="image-post-centered">
-  <img src="\assets\Post-Draw-Drawing-Game\Diagram_Communication-Effectiveness.JPG" alt="Diagram Richness of Communication VS Effectiveness" style="width:420px;height:290px;">
+  <img src="\assets\Post-Draw-Drawing-Game\Diagram_Communication-Effectiveness.jpg" alt="Diagram Richness of Communication VS Effectiveness" style="width:420px;height:290px;">
   <p>Alistair Cockburn's diagram: richness of communication and its effectiveness associated</p>
 </div>
 
